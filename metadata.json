@@ -1,0 +1,5 @@
+{
+  "name": "SPY Volatility Trader",
+  "description": "A real-time simulation of a SPY trading system using 30-day volatility-adjusted lookbacks and dynamic trailing stop-losses, enhanced with Gemini AI market analysis.",
+  "requestFramePermissions": []
+}
